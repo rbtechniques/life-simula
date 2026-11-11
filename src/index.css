@@ -1,0 +1,2 @@
+/* Minimal base — pages inject their own complete CSS via style tags */
+*, *::before, *::after { box-sizing: border-box; }
